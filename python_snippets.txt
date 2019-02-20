@@ -41,7 +41,7 @@ newVariable = int(oldVariable)
 ================================================================================================================
 Ans:
 
-stringVaraibleName = ''.join( **interableVariableName** )
+stringVaraibleName = ''.join( interableVariableName )
 
 ----------------------------------------------------------------------------------------------------------------
 
